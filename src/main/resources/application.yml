@@ -1,0 +1,6 @@
+#spring.application.name=Paypal_Payment_Integration
+
+paypal:
+  client-id: AUHsX7xKXSQ-pE015tLA8H9LHjBJlcgy5W2QSUuzvmYk2PFLJdl4hRDppOzsHDJPlFrk-C_4cItswPj7
+  client-secrete: EHiM0_BcAOBYcvDmsUJMlO6-SuzdEN6c9F3_XYflJV27c0mtoln-PhYzAnc45UhoUOnAHpNFnW2K23tX
+  mode: sandbox
